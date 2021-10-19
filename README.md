@@ -101,6 +101,13 @@ UHMM NOT MUCH TO DISPLAY RN xD
 ---
 
 ### :ocean:	:ocean:	Cool BGs :
+* BG-Image1
+* bg-image1.jpg
+
+</br>
+
+* BG-Image2
+* bg-image2.jpg
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
