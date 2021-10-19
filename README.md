@@ -3,10 +3,10 @@
 <img src="header-image.jpg">
 
 ### About Me :
-Hello I am Insane,
-currently preparing for JEE MAINS AND ADV,
-learning programming, github, created a coding yt channel for helping ppls with my current level of knowledge 
-Diehard fan of CS and cant live without it
+* :v:	Hello I am Insane,
+* :pencil2:	Currently preparing for JEE MAINS AND ADV,
+* :blue_heart:	Learning programming, github, created a coding yt channel for helping ppls with my current level of knowledge 
+* :dart:	Diehard fan of CS and cant live without it
 
 **IIT BOMBAY CS IS MAH DREAM and I WILL ACHIEVE IT !!
 
