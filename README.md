@@ -5,13 +5,13 @@
 <img src="header-image.jpg">
 
 <br />
-
+---
 ### About Me :
 * :v:	         Hello I am Insane,
 * :pencil2:	   Currently preparing for JEE MAINS AND ADV,
 * :blue_heart:	Learning programming, github, created a coding yt channel for helping ppls with my current level of knowledge 
 * :dart:	      Diehard fan of CS and cant live without it
-
+---
 <br />
 
 ### I Can Do It :
