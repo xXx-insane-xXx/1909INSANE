@@ -135,8 +135,13 @@ UHMM NOT MUCH TO DISPLAY RN xD
 
 <details>
   <summary>:zap: PYTHON</summary>
-    <source1><summary>:zap: PYTHON-1</summary></source1>
-    <source2><summary>:zap: PYTHON-2</summary></source2>
+    <source1>
+      <summary>:zap: PYTHON-1</summary>
+    </source1>
+ 
+    <source2>
+      <summary>:zap: PYTHON-2</summary>
+    </source2>
 </details>
 
 [website]: https://codeSTACKr.com
