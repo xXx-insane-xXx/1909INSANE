@@ -16,7 +16,7 @@
 
 ---
 
-### I Can Do It :
+### :boom: I Can Do It :boom: :
 * IIT BOMBAY CS IS MAH DREAM and I WILL ACHIEVE IT !! :crossed_swords:	
 
 ---
