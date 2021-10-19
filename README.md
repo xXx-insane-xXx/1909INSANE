@@ -135,9 +135,9 @@ UHMM NOT MUCH TO DISPLAY RN xD
 
 <details>
   <summary>:zap: PYTHON-1</summary>
-   Link : https://youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j</br>
-   Content : Python Course</br>
-   Platform : YouTube</br>
+   Link : https://youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j </br>
+   Content : Python Course </br>
+   Platform : YouTube </br>
    Author : Harshit vashisth </br>
 </details>
 
@@ -152,13 +152,21 @@ UHMM NOT MUCH TO DISPLAY RN xD
 
 
 <details>
-  <summary>:zap: HTML</summary>
-   Link : </br>
-   Content : </br>
-   Platform : </br>
-   Author: </br>
+ <summary>:zap: HTML</summary>
+   Link : https://youtube.com/playlist?list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB </br>
+   Content : Python Course </br>
+   Platform : YouTube </br>
+   Author : Harshit vashisth </br>
 </details>
 
+<details>
+ <summary>:zap: JAVA SCRIPT</summary>
+   Link (part1) : https://youtu.be/chx9Rs41W6g </br>
+   Link (part2) : https://youtu.be/Llsq1y-HWs4 </br>
+   Content : Python Course </br>
+   Platform : YouTube </br>
+   Author : Harshit vashisth </br>
+</details>
 
 <details>
   <summary>:zap: KALI-LINUX</summary>
