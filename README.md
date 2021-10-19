@@ -108,8 +108,23 @@ UHMM NOT MUCH TO DISPLAY RN xD
 </details>
 
 <details>
-  <summary>:zap: BG-Image1</summary>
+  <summary>:zap: BG-Image2</summary>
     <img src="bg-image2.jpg">
+</details>
+
+<details>
+  <summary>:zap: BG-Image3</summary>
+    <img src="bg-image3.jpg">
+</details>
+
+<details>
+  <summary>:zap: BG-Image4</summary>
+    <img src="bg-image4.jpg">
+</details>
+
+<details>
+  <summary>:zap: BG-Image5</summary>
+    <img src="bg-image5.jpg">
 </details>
 
 [website]: https://codeSTACKr.com
