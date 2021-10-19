@@ -7,7 +7,7 @@
 
 ---
 
-### About Me :
+### :metal:	About Me :metal:	 :
 * :v:	         Hello I am Insane,
 * :pencil2:	   Currently preparing for JEE MAINS AND ADV,
 * :blue_heart:	Learning programming, github, created a coding yt channel for helping ppls with my current level of knowledge 
