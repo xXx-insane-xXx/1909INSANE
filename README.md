@@ -135,16 +135,12 @@ UHMM NOT MUCH TO DISPLAY RN xD
 
 <details>
   <summary>:zap: PYTHON</summary>
-    <source1>
-      <summary1>:zap: PYTHON-1</summar1y>
-      gg
-    </source1>
+    *PYTHON-1
+     *gg
+     *
  
-    <source2>
-      <summary2>:zap: PYTHON-2</summar2y>
-      gg
-    </source2>
 </details>
+
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
