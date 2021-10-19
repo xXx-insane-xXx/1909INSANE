@@ -135,38 +135,39 @@ UHMM NOT MUCH TO DISPLAY RN xD
 
 <details>
   <summary>:zap: PYTHON-1</summary>
-   Link : </br>
-   Content :
-   Platform :
-   Author
+   Link : https://youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j</br>
+   Content : Python Course</br>
+   Platform : YouTube</br>
+   Author : Harshit vashisth </br>
 </details>
 
 
 <details>
   <summary>:zap: PYTHON-2</summary>
-   Link :
-   Content :
-   Platform :
-   Author
+   Link : </br>
+   Content : </br>
+   Platform : </br>
+   Author: </br>
 </details>
 
 
 <details>
   <summary>:zap: HTML</summary>
-   Link :
-   Content :
-   Platform :
-   Author
+   Link : </br>
+   Content : </br>
+   Platform : </br>
+   Author: </br>
 </details>
 
 
 <details>
   <summary>:zap: KALI-LINUX</summary>
-   Link :
-   Content :
-   Platform :
-   Author
+   Link : </br>
+   Content : </br>
+   Platform : </br>
+   Author: </br>
 </details>
+
 
 
 [website]: https://codeSTACKr.com
