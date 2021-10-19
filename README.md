@@ -101,13 +101,16 @@ UHMM NOT MUCH TO DISPLAY RN xD
 ---
 
 ### :ocean:	:ocean:	Cool BGs :
-* BG-Image1
-<img src="bg-image1.jpg">
 
-</br>
+<details>
+  <summary>:zap: BG-Image1</summary>
+    <img src="bg-image1.jpg">
+</details>
 
-* BG-Image2
-<img src="bg-image2.jpg">
+<details>
+  <summary>:zap: BG-Image1</summary>
+    <img src="bg-image2.jpg">
+</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
