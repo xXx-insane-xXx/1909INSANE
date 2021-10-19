@@ -21,7 +21,7 @@
 
 ---
 
-### Motivation :
+### :fire:	:fire:	Motivation :
 * REMEMBER : Always Aim For Something Which You Are 100 per Sure That You Would Definitely Fail and Cant Get It, And Then TRY HARDER And HARDER And HARDER And Even More HARDER, And Make Sure To Get It, Until You Dont Get It :] :shield: 
 * Always Aim Higher And Higher And Even More And Never Stop Grinding, Never Give Up, Proove Yourself, Keep Working Instead of Just Dreaming It and Saying It, You Can Do It, You   Have That Potential !!
 
