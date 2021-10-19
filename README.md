@@ -1,3 +1,3 @@
-Hey, I am Insane!! 
+#Hey, I am Insane!! 
 
 <img src="header-image.jpg">
