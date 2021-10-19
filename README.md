@@ -9,11 +9,11 @@
 * :dart:	      Diehard fan of CS and cant live without it
 
 ### I Can Do It :
-IIT BOMBAY CS IS MAH DREAM and I WILL ACHIEVE IT !! :crossed_swords:	
+* IIT BOMBAY CS IS MAH DREAM and I WILL ACHIEVE IT !! :crossed_swords:	
 
 ### Motivation :
-REMEMBER : ALWAYS AIM FOR SOMETHING WHICH YOU ARE 100 PERCENT SURE THAT YOU WOULD FAIL AND WONT GET IT, AND THEN TRY AND TRY AND TRY AND TRY HARDER TO GET IT UNITL YOU DONT     GET IT :] :shield: 
-
+* REMEMBER : Always Aim For Something Which You Are 100 per Sure That You Would Definitely Fail and Cant Get It, And Then TRY HARDER And HARDER And HARDER And Even More HARDER, And Make Sure To Get It, Until You Dont Get It :] :shield: 
+* Always Aim Higher And Higher And Even More And Never Stop Grinding, Never Give Up, Proove Yourself, Keep Working Instead of Just Dreaming It and Saying It, You Can Do It, You   Have That Potential !!
 
 ### My Goals
 
