@@ -1,3 +1,3 @@
 Hey, I am Insane!! 
 
-<img src="">
+<img src="header-image.jpg">
