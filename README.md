@@ -3,28 +3,28 @@
 </br>
 
 <img src="header-image.jpg">
-
-<br />
 ---
+<br />
+
 ### About Me :
 * :v:	         Hello I am Insane,
 * :pencil2:	   Currently preparing for JEE MAINS AND ADV,
 * :blue_heart:	Learning programming, github, created a coding yt channel for helping ppls with my current level of knowledge 
 * :dart:	      Diehard fan of CS and cant live without it
----
-<br />
 
+<br />
+---
 ### I Can Do It :
 * IIT BOMBAY CS IS MAH DREAM and I WILL ACHIEVE IT !! :crossed_swords:	
 
 </br>
-
+---
 ### Motivation :
 * REMEMBER : Always Aim For Something Which You Are 100 per Sure That You Would Definitely Fail and Cant Get It, And Then TRY HARDER And HARDER And HARDER And Even More HARDER, And Make Sure To Get It, Until You Dont Get It :] :shield: 
 * Always Aim Higher And Higher And Even More And Never Stop Grinding, Never Give Up, Proove Yourself, Keep Working Instead of Just Dreaming It and Saying It, You Can Do It, You   Have That Potential !!
 
 </br> 
-
+---
 ### My Goals :
 
 * ACADEMICS
@@ -41,7 +41,7 @@
   * NETWORKING IN MY HANDS
 
 </br>
-
+---
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
