@@ -139,6 +139,7 @@ UHMM NOT MUCH TO DISPLAY RN xD
    Content : Python Course </br>
    Platform : YouTube </br>
    Author : Harshit vashisth </br>
+   Language : Hindi </br>
 </details>
 
 
@@ -157,6 +158,7 @@ UHMM NOT MUCH TO DISPLAY RN xD
    Content : Python Course </br>
    Platform : YouTube </br>
    Author : Harshit vashisth </br>
+   Language : Hindi </br>
 </details>
 
 <details>
@@ -166,14 +168,16 @@ UHMM NOT MUCH TO DISPLAY RN xD
    Content : Python Course </br>
    Platform : YouTube </br>
    Author : Harshit vashisth </br>
+   Language : Hindi </br>
 </details>
 
 <details>
   <summary>:zap: KALI-LINUX</summary>
-   Link : </br>
-   Content : </br>
-   Platform : </br>
-   Author: </br>
+   Search (in udemy) : Complete Python Developer in 2021: Zero to Mastery </br>
+   Content : Python </br>
+   Platform : Udemy </br>
+   Author: Andrei Neagoie</br>
+   Language : English </br>
 </details>
 
 
