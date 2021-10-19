@@ -1,6 +1,10 @@
 # Hey, I am Insane!! :wave:	
 
+</br>
+
 <img src="header-image.jpg">
+
+</br>
 
 ### About Me :
 * :v:	         Hello I am Insane,
@@ -8,8 +12,12 @@
 * :blue_heart:	Learning programming, github, created a coding yt channel for helping ppls with my current level of knowledge 
 * :dart:	      Diehard fan of CS and cant live without it
 
+</br>
+
 ### I Can Do It :
 * IIT BOMBAY CS IS MAH DREAM and I WILL ACHIEVE IT !! :crossed_swords:	
+
+</br>
 
 ### Motivation :
 * REMEMBER : Always Aim For Something Which You Are 100 per Sure That You Would Definitely Fail and Cant Get It, And Then TRY HARDER And HARDER And HARDER And Even More HARDER, And Make Sure To Get It, Until You Dont Get It :] :shield: 
@@ -32,6 +40,7 @@
   * VALORANT RADIANT
   * NETWORKING IN MY HANDS
 
+</br>
 
 ### Languages and Tools:
 
@@ -59,3 +68,13 @@
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1909INSANE)](https://github.com/anuraghazra/github-readme-stats)
 
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
