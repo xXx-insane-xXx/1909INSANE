@@ -98,6 +98,10 @@ UHMM NOT MUCH TO DISPLAY RN xD
 <!-- ### Stats -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1909INSANE)](https://github.com/anuraghazra/github-readme-stats) -->
 
+---
+
+### :ocean:	:ocean:	Cool BGs :
+
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
