@@ -7,7 +7,7 @@
 
 ---
 
-### :metal:	About Me :metal:	 :
+### :metal:	:metal: About Me :
 * :v:	         Hello I am Insane,
 * :pencil2:	   Currently preparing for JEE MAINS AND ADV,
 * :blue_heart:	Learning programming, github, created a coding yt channel for helping ppls with my current level of knowledge 
@@ -16,7 +16,7 @@
 
 ---
 
-### :boom: I Can Do It :boom: :
+### :boom: :boom: I Can Do It :
 * IIT BOMBAY CS IS MAH DREAM and I WILL ACHIEVE IT !! :crossed_swords:	
 
 ---
