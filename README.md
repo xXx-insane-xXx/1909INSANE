@@ -13,14 +13,11 @@
 * :blue_heart:	Learning programming, github, created a coding yt channel for helping ppls with my current level of knowledge 
 * :dart:	      Diehard fan of CS and cant live without it
 
-</br>
 
 ---
 
 ### I Can Do It :
 * IIT BOMBAY CS IS MAH DREAM and I WILL ACHIEVE IT !! :crossed_swords:	
-
-</br>
 
 ---
 
