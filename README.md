@@ -140,15 +140,20 @@ UHMM NOT MUCH TO DISPLAY RN xD
    Platform : YouTube </br>
    Author : Harshit vashisth </br>
    Language : Hindi </br>
+   Type : Video Lectures (with assignments, excersices, etc)
+   Price : Free
 </details>
 
 
 <details>
   <summary>:zap: PYTHON-2</summary>
-   Link : </br>
-   Content : </br>
-   Platform : </br>
-   Author: </br>
+   Search (in udemy) : Complete Python Developer in 2021: Zero to Mastery </br>
+   Content : Python </br>
+   Platform : Udemy </br>
+   Author: Andrei Neagoie</br>
+   Language : English </br>
+   Type : Video Lectures (with assignments, excersices, etc)
+   Price : Paid (varies each week or month, however its cheap most of the time)
 </details>
 
 
@@ -159,6 +164,8 @@ UHMM NOT MUCH TO DISPLAY RN xD
    Platform : YouTube </br>
    Author : Harshit vashisth </br>
    Language : Hindi </br>
+   Type : Video Lectures (with assignments, excersices, etc)
+   Price : Free
 </details>
 
 <details>
@@ -169,15 +176,19 @@ UHMM NOT MUCH TO DISPLAY RN xD
    Platform : YouTube </br>
    Author : Harshit vashisth </br>
    Language : Hindi </br>
+   Type : Video Lectures (with assignments, excersices, etc)
+   Price : Free
 </details>
 
 <details>
   <summary>:zap: KALI-LINUX</summary>
-   Search (in udemy) : Complete Python Developer in 2021: Zero to Mastery </br>
-   Content : Python </br>
-   Platform : Udemy </br>
-   Author: Andrei Neagoie</br>
-   Language : English </br>
+   Link : Will Share </br>
+   Content : </br>
+   Platform : Official Kali-Linux WebSite --> https://www.kali.org</br>
+   Author : Kali-Linux (Most Probably)
+   Language : English (written docs)
+   Type : Written Docs
+   Price : Free
 </details>
 
 
