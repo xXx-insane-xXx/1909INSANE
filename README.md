@@ -1,6 +1,12 @@
-# Hey, I am Insane!! 
+# Hey, I am Insane!! :wave:	
 
-**INTRO :** Hello I am Insane, currently preparing for JEE MAINS AND ADV, and at the same time learning programming, github, created a coding yt channel for helping ppls with my current level of knowledge and basically yea, I am a diehard fan of CS and cant live without it
+<img src="header-image.jpg">
+
+# About Me :
+Hello I am Insane,
+currently preparing for JEE MAINS AND ADV,
+learning programming, github, created a coding yt channel for helping ppls with my current level of knowledge 
+Diehard fan of CS and cant live without it
 
 **IIT BOMBAY CS IS MAH DREAM and I WILL ACHIEVE IT !!
 
@@ -22,7 +28,7 @@
   * VALORANT RADIANT
   * NETWORKING IN MY HANDS
 
-<img src="header-image.jpg">
+
 
 # STATS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1909INSANE)](https://github.com/anuraghazra/github-readme-stats)
