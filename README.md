@@ -135,7 +135,7 @@ UHMM NOT MUCH TO DISPLAY RN xD
 
 <details>
   <summary>:zap: PYTHON-1</summary>
-   Link :
+   Link : </br>
    Content :
    Platform :
    Author
