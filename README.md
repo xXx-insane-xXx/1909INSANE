@@ -25,4 +25,5 @@
 <img src="header-image.jpg">
 
 # STATS
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/1909insane/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1909INSANE)](https://github.com/anuraghazra/github-readme-stats)
+
