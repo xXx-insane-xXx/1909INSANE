@@ -8,8 +8,10 @@
 * :blue_heart:	Learning programming, github, created a coding yt channel for helping ppls with my current level of knowledge 
 * :dart:	Diehard fan of CS and cant live without it
 
-**IIT BOMBAY CS IS MAH DREAM and I WILL ACHIEVE IT !!
+## I CAN DO IT !!
+IIT BOMBAY CS IS MAH DREAM and I WILL ACHIEVE IT !!
 
+## MOTIVATION 
 ***REMEMBER : ALWAYS AIM FOR SOMETHING WHICH YOU ARE 100 PERCENT SURE THAT YOU WOULD FAIL AND WONT GET IT, AND THEN TRY AND TRY AND TRY AND TRY HARDER TO GET IT UNITL YOU DONT GET IT :]***
 
 
