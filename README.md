@@ -2,7 +2,7 @@
 
 <img src="header-image.jpg">
 
-# About Me :
+### About Me :
 Hello I am Insane,
 currently preparing for JEE MAINS AND ADV,
 learning programming, github, created a coding yt channel for helping ppls with my current level of knowledge 
