@@ -145,7 +145,6 @@ ttps://youtube.com/codeSTACKr
    Price : Free
 </details>
 
-ttps://youtube.com/codeSTACKr
 <details>
   <summary>:zap: PYTHON-2</summary>
    Search (in udemy) : Complete Python Developer in 2021: Zero to Mastery </br>
