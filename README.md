@@ -45,10 +45,12 @@
 ---
 
 ### :hotsprings: :hotsprings: Social Medias :
-* YOUTUBE : https://www.youtube.com/channel/UC06S1t3dYo_NLdEF1_SQq9w
-* INSTAGRAM : null
-* FACEBOOK : null
-* TWITTER : null
+* [YOUTUBE] : https://www.youtube.com/channel/UC06S1t3dYo_NLdEF1_SQq9w
+* [DISCORD] : https://discord.gg/rFr9UjTS54
+* [INSTAGRAM] : null
+* [FACEBOOK] : null
+* [TWITTER] : null
+
 
 ---
 
@@ -130,7 +132,7 @@ UHMM NOT MUCH TO DISPLAY RN xD
 ---
 
 ### :satellite:	:satellite:	Places From Where I learnt and Am Learning CS stuffs, coding, etc (NOT AT ALL SPONSERED OR ANY KIND OF PROMOTION)
-
+ttps://youtube.com/codeSTACKr
 *NOTE : THE LINKS POSTED IN THIS SECTION IS NOT ALL ANY KIND OF SPONSERSHIP OR PROMOTION, I AM POSTING THESE ON MY OWN AND MOST PROBABLY THE CREATORS OF THESE SOURCES ALSO DOESN'T KNOW, I'M JUST HELPING PEOPLE TO GET GOOD SOURCES AND ALSO IN THIS SECTION, ANY OF THE CONTENT ARE NOT CREATED BY ME, THEY ARE ALL OF SOME AUTHORS WHICH CAN BE FOUND ITSELF FROM THE LINKS!!*
 
 <details>
@@ -144,7 +146,7 @@ UHMM NOT MUCH TO DISPLAY RN xD
    Price : Free
 </details>
 
-
+ttps://youtube.com/codeSTACKr
 <details>
   <summary>:zap: PYTHON-2</summary>
    Search (in udemy) : Complete Python Developer in 2021: Zero to Mastery </br>
@@ -184,7 +186,7 @@ UHMM NOT MUCH TO DISPLAY RN xD
   <summary>:zap: KALI-LINUX</summary>
    Link : Will Share </br>
    Content : </br>
-   Platform : Official Kali-Linux WebSite --> https://www.kali.org</br>
+   Platform : Official Kali-Linux WebSite --> https://www.kali.org </br>
    Author : Kali-Linux (Most Probably)
    Language : English (written docs)
    Type : Written Docs
@@ -192,11 +194,12 @@ UHMM NOT MUCH TO DISPLAY RN xD
 </details>
 
 
-
+[YOUTUBE]: https://www.youtube.com/channel/UC06S1t3dYo_NLdEF1_SQq9w
+[DISCORD]: https://discord.gg/rFr9UjTS54
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UC06S1t3dYo_NLdEF1_SQq9w
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
