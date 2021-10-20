@@ -48,7 +48,6 @@
 * [YOUTUBE] : https://www.youtube.com/channel/UC06S1t3dYo_NLdEF1_SQq9w
 * [DISCORD] : https://discord.gg/rFr9UjTS54
 * [INSTAGRAM] : https://www.instagram.com/theinsanecodershow/
-* [FACEBOOK] : null
 * [TWITTER] : https://twitter.com/insanecodershow
 
 
