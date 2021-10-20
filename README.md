@@ -49,7 +49,7 @@
 * [DISCORD] : https://discord.gg/rFr9UjTS54
 * [INSTAGRAM] : https://www.instagram.com/theinsanecodershow/
 * [FACEBOOK] : null
-* [TWITTER] : null
+* [TWITTER] : https://twitter.com/insanecodershow
 
 
 ---
@@ -124,7 +124,7 @@ UHMM NOT MUCH TO DISPLAY RN xD
     <img src="bg-image4.jpg">
 </details>
 
-<details>
+<details>https://twitter.com/insanecodershow
   <summary>:zap: BG-Image5</summary>
     <img src="bg-image5.jpg">
 </details>
@@ -187,7 +187,7 @@ ttps://youtube.com/codeSTACKr
    Link : Will Share </br>
    Content : </br>
    Platform : Official Kali-Linux WebSite --> https://www.kali.org </br>
-   Author : Kali-Linux (Most Probably)
+   Author : Kali-Linux (https://twitter.com/insanecodershowMost Probably)
    Language : English (written docs)
    Type : Written Docs
    Price : Free
@@ -197,8 +197,8 @@ ttps://youtube.com/codeSTACKr
 [YOUTUBE]: https://www.youtube.com/channel/UC06S1t3dYo_NLdEF1_SQq9w
 [DISCORD]: https://discord.gg/rFr9UjTS54
 [INSTAGRAM]: https://www.instagram.com/theinsanecodershow/
-[FACEBOOK] : null
-[TWITTER] : null
+[FACEBOOK]: null
+[TWITTER]: https://twitter.com/insanecodershow
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
