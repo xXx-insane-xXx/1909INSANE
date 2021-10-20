@@ -47,7 +47,7 @@
 ### :hotsprings: :hotsprings: Social Medias :
 * [YOUTUBE] : https://www.youtube.com/channel/UC06S1t3dYo_NLdEF1_SQq9w
 * [DISCORD] : https://discord.gg/rFr9UjTS54
-* [INSTAGRAM] : null
+* [INSTAGRAM] : https://www.instagram.com/theinsanecodershow/
 * [FACEBOOK] : null
 * [TWITTER] : null
 
@@ -196,6 +196,9 @@ ttps://youtube.com/codeSTACKr
 
 [YOUTUBE]: https://www.youtube.com/channel/UC06S1t3dYo_NLdEF1_SQq9w
 [DISCORD]: https://discord.gg/rFr9UjTS54
+[INSTAGRAM]: https://www.instagram.com/theinsanecodershow/
+[FACEBOOK] : null
+[TWITTER] : null
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
