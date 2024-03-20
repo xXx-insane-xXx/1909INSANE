@@ -9,7 +9,7 @@
 
 ### :metal:	:metal: About Me :
 * :v:	         Hello I am Insane,
-* :pencil2:	   Currently coding and learning CompSci whole neglecting all my college work :),
+* :pencil2:	   Currently coding and learning CompSci whole day neglecting all my college work :),
 
 
 ---
