@@ -12,5 +12,6 @@
 
 ---
 
-### I WISH
-I wish I was born in the era when programming, game dev, and computer science was at its early stage and was taking off. Things were so cool and simple back then. Everything was done in pure and very simple assembly language back then. It would be so great if my knowledge on computer sci grew from that very basic stage !!
+<hr>
+I just want enough money so that I can save for a m9 bayonet in counter strike ezz.
+<hr>
